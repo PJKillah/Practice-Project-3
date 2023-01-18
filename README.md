@@ -1,2 +1,1 @@
-# Still working on it, not finished
-
+React project, not finished yet
